@@ -1,4 +1,4 @@
-Grundstück in qm;Grundstücksform;Steigung;Bezirk;Zone;Lage;Typ;Zustand;Gebaut;Renoviert;Zustand Fassade;Kellerfläche in qm;Heizung;Heizungsqualität;Klimaanlage;Erster Stock in qm;Zweiter Stock in qm;Wohnfläche in qm;Schlafzimmer;Küchen;Küchenqualität;Räume;Garage Typ;Garagenkapazitt;Pool;Verkaufsmonat;Verkaufsjahr;Preis
+Grundstueck in qm;Grundstuecksform;Steigung;Bezirk;Zone;Lage;Typ;Zustand;Gebaut;Renoviert;Zustand Fassade;Kellerflaeche in qm;Heizung;Heizungsqualitaet;Klimaanlage;Erster Stock in qm;Zweiter Stock in qm;Wohnflaeche in qm;Schlafzimmer;Kuechen;Kuechenqualitaet;Raeume;Garage Typ;Garagenkapazitaet;Pool;Verkaufsmonat;Verkaufsjahr;Preis
 898;IR1;Nein;Somerset;RL;Norm;2Fam;4;2107;2107;3;183;GasA;Ty;Y;183;0;183;6;2;3;10;Anbau;2;NA;8;2136;156500
 1326;Reg;Nein;North East;RL;Norm;1Fam;5;2133;2133;3;122;GasA;Ex;Y;113;109;222;3;1;4;7;Anbau;3;NA;1;2137;350000
 725;Reg;Nein;Somerset;RL;Norm;1Fam;7;2096;2138;3;80;GasA;Ex;Y;83;0;83;3;1;4;5;Freistehend;1;NA;6;2140;137900
