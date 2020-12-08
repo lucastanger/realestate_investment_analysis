@@ -1,4 +1,4 @@
-# DataScience Real Estate Investment Analysis
+# :chart_with_upwards_trend: :building_construction: DataScience Real Estate Investment Analysis
 
 [![GitHub](https://img.shields.io/github/license/lucastanger/realestate_investment_analysis)](https://github.com/lucastanger/realestate_investment_analysis/blob/master/LICENSE)
 ![GitHub issues](https://img.shields.io/github/issues/lucastanger/realestate_investment_analysis)
